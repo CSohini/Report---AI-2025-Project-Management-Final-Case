@@ -1,4 +1,4 @@
-# Report---AI-2025-Project-Management-Final-Case
+# Report-AI-2025-Project-Management-Final-Case
 Case Study – Project Management using HBR Case Study: Create SOW, Schedule in MS Project, Budget, Closeout (Interim)
 
 •	Utilized MS Project extensively for task sheet view, Gantt chart view, key milestones tracking, cost overview, and resource overview.
